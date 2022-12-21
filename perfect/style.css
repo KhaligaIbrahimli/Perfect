@@ -1,0 +1,38 @@
+.digital-product{
+    border: 2px solid;
+    height: 193px;
+    width: 224px;
+    position: relative;
+    background-color: black;
+    margin: 7px;
+}
+h4{
+    position: absolute !important;
+    left: 16px !important;
+    top: 6rem !important;
+    font-size: 29px !important;
+    color: white;
+}
+.icon i{
+    position: absolute;
+    right: 13px;
+    top: 14px;
+    font-size: 22px;
+    color: rgb(185, 162, 14);
+}
+
+.digital-product .development{
+    font-size: 25px !important;
+}
+.perfect{
+    background-color: black;
+}
+h1{
+    color: white !important;
+}
+p{
+    color: bisque;
+}
+.digital-product:hover{
+    background-color: yellow;
+}
